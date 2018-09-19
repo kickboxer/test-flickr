@@ -1,0 +1,12 @@
+body {
+	width: 1024px;
+}
+
+#output img {
+	width: 195px;
+	height: 70px;
+}
+
+.selected {
+	border: 2px solid green;
+}
